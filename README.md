@@ -29,46 +29,24 @@ Password : `pass`
 
 ### Welcome Screen
 
-![Screenshot 1](screenshots/1.png "Welcome Screen")
+![1](https://github.com/nadim1807045/OOP-Project-Bus-Reservation-System-/assets/105338453/d09c3d15-d03e-4cf5-8804-3b5333fcdcdf)
 
 ### Main Menu
 
-![Screenshot 2](screenshots/2.png "Main Menu")
+![2](https://github.com/nadim1807045/OOP-Project-Bus-Reservation-System-/assets/105338453/e9e38c61-be27-4419-b144-4283fcf8500c)
 
 ### User Menu
 
-![Screenshot 3](screenshots/3.png "User Menu")
+![3](https://github.com/nadim1807045/OOP-Project-Bus-Reservation-System-/assets/105338453/2d157f0c-5a18-406c-b6c0-7c7933f91288)
 
 ### Book Ticket
 
-![Screenshot 4](screenshots/4.png "Book Ticket")
+![4](https://github.com/nadim1807045/OOP-Project-Bus-Reservation-System-/assets/105338453/ef7d7ad5-c179-4353-9acf-1169268a3bd9)
 
 ### Admin Menu
 
-![Screenshot 5](screenshots/5.png "Admin Menu")
+![5](https://github.com/nadim1807045/OOP-Project-Bus-Reservation-System-/assets/105338453/a3adbb3b-1ed5-4d62-8d73-1d9b1eb3d27c)
 
 ### Bus List
 
-![Screenshot 6](screenshots/6.png "Bus List")
-
-## Connect With Me
-
-[<img align="left" alt="nixrajput | Website" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/globe-icon.svg" />][website]
-
-[<img align="left" alt="nixrajput | GitHub" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/github-brands.svg" />][github]
-
-[<img align="left" alt="nixrajput | Instagram" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/instagram-brands.svg" />][instagram]
-
-[<img align="left" alt="nixrajput | Facebook" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/facebook-brands.svg" />][facebook]
-
-[<img align="left" alt="nixrajput | Twitter" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/twitter-brands.svg" />][twitter]
-
-[<img align="left" alt="nixrajput | LinkedIn" width="24px" src="https://raw.githubusercontent.com/nixrajput/nixlab-files/master/images/icons/linkedin-in-brands.svg" />][linkedin]
-
-[pub]: https://pub.dev/packages/get_time_ago
-[github]: https://github.com/nixrajput
-[website]: https://nixlab.co.in
-[facebook]: https://facebook.com/nixrajput07
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
+![6](https://github.com/nadim1807045/OOP-Project-Bus-Reservation-System-/assets/105338453/6a1637c6-add7-409c-bc6e-ee51e7a9e143)
